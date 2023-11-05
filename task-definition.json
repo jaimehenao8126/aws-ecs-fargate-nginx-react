@@ -3,7 +3,7 @@
     {
       "essential": true,
       "name": "app",
-      "image": "nelsoncode/react-app:latest",
+      "image": "arheanja/react-app:latest",
       "portMappings": [
         {
           "containerPort": 80,
